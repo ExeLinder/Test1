@@ -12,3 +12,8 @@ double Add(double x, double y)
 {
   return x+y;
 }
+
+double Sub(double x, double y)
+{
+  return x-y;
+}
