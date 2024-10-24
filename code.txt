@@ -2,3 +2,7 @@ double Div(double x, double y)
 {
 	return x/y;
 }
+double Add(double x, double y)
+{
+  return x+y;
+}
